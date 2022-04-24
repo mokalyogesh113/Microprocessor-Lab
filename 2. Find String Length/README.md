@@ -1,2 +1,2 @@
 ## Problem Statement
-    Write 8086 ALP to perform multiplication of two 8-bit numbers. Use Successive Addition and add and shift method.
+    Write an X86/64 ALP to accept a string and to display its length.
