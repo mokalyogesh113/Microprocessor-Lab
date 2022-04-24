@@ -3,6 +3,7 @@
 ## 1 [Count the positive nagative nummbers](https://github.com/mokalyogesh113/Microprocessor-Lab.github.io/tree/main/1.%20Positive%20Negative%20Count) 
 ## 2 [Find the String Length](https://github.com/mokalyogesh113/Microprocessor-Lab.github.io/tree/main/2.%20Find%20String%20Length)
 ## 3 [Mulitiplication using Suuccessive Addition and Add & shift](https://github.com/mokalyogesh113/Microprocessor-Lab.github.io/tree/main/3.%20Multiplication)
+## 4 [GDTR IDTR LDTR MSW](https://github.com/mokalyogesh113/Microprocessor-Lab.github.io/tree/main/4.%20GDTR%20IDTR%20LDTR%20MSW)
 
 <!--
 You can use the [editor on GitHub](https://github.com/mokalyogesh113/Microprocessor-Lab.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
